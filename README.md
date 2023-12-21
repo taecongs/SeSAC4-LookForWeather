@@ -35,3 +35,83 @@
 <br>
 
 ## 📌폴더구조
+```
+📦LFW
+ ┣ 📂config
+ ┃ ┗ 📜config.json
+ ┣ 📂controller
+ ┃ ┣ 📜MainController.js
+ ┃ ┣ 📜MemoController.js
+ ┃ ┣ 📜MypageController.js
+ ┃ ┣ 📜OotdController.js
+ ┃ ┣ 📜UserController.js
+ ┃ ┗ 📜WeatherController.js
+ ┣ 📂model
+ ┃ ┣ 📜Codi.js
+ ┃ ┣ 📜Comment.js
+ ┃ ┣ 📜Heart.js
+ ┃ ┣ 📜index.js
+ ┃ ┣ 📜MEMO.js
+ ┃ ┣ 📜OOTD.js
+ ┃ ┗ 📜User.js
+ ┣ 📂public
+ ┃ ┣ 📂css
+ ┃ ┃ ┣ 📜01.CSS 정의.txt
+ ┃ ┃ ┣ 📜common.css
+ ┃ ┃ ┣ 📜community.css
+ ┃ ┃ ┣ 📜community2.css
+ ┃ ┃ ┣ 📜find_id.css
+ ┃ ┃ ┣ 📜find_pw.css
+ ┃ ┃ ┣ 📜login.css
+ ┃ ┃ ┣ 📜main.css
+ ┃ ┃ ┣ 📜membership.css
+ ┃ ┃ ┣ 📜mypage.css
+ ┃ ┃ ┣ 📜ootd-upload.css
+ ┃ ┃ ┣ 📜ootd.css
+ ┃ ┃ ┣ 📜profile.css
+ ┃ ┃ ┣ 📜update_pw.css
+ ┃ ┃ ┗ 📜weather.css
+ ┃ ┣ 📂js
+ ┃ ┃ ┣ 📂slider
+ ┃ ┃ ┃ ┣ 📜jquery.min.js
+ ┃ ┃ ┃ ┣ 📜main.js
+ ┃ ┃ ┃ ┗ 📜swiper-4.5.0.min.js
+ ┃ ┃ ┣ 📜01.JS 정의.txt
+ ┃ ┃ ┣ 📜app.js
+ ┃ ┃ ┣ 📜common.js
+ ┃ ┃ ┣ 📜community.js
+ ┃ ┃ ┣ 📜find_id.js
+ ┃ ┃ ┣ 📜find_pw.js
+ ┃ ┃ ┣ 📜login.js
+ ┃ ┃ ┣ 📜membership.js
+ ┃ ┃ ┣ 📜mypage.js
+ ┃ ┃ ┣ 📜profile.js
+ ┃ ┃ ┣ 📜update_pw.js
+ ┃ ┃ ┗ 📜weather.js
+ ┃ ┗ 📜.DS_Store
+ ┣ 📂routes
+ ┃ ┗ 📜index.js
+ ┣ 📂views
+ ┃ ┣ 📜.DS_Store
+ ┃ ┣ 📜community.ejs
+ ┃ ┣ 📜community2.ejs
+ ┃ ┣ 📜find_id.ejs
+ ┃ ┣ 📜find_pw.ejs
+ ┃ ┣ 📜footer.ejs
+ ┃ ┣ 📜header.ejs
+ ┃ ┣ 📜login.ejs
+ ┃ ┣ 📜main.ejs
+ ┃ ┣ 📜membership.ejs
+ ┃ ┣ 📜mypage.ejs
+ ┃ ┣ 📜ootd-upload.ejs
+ ┃ ┣ 📜ootd.ejs
+ ┃ ┣ 📜profile.ejs
+ ┃ ┣ 📜update_pw.ejs
+ ┃ ┣ 📜weather.ejs
+ ┃ ┗ 📜weatherAPI.ejs
+ ┣ 📜.DS_Store
+ ┣ 📜index.js
+ ┣ 📜LFW.sql
+ ┣ 📜package-lock.json
+ ┗ 📜package.json
+```
